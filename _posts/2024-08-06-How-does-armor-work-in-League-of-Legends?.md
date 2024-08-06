@@ -18,7 +18,8 @@ f(x) =
 \end{cases}
 $$
 
-[Armor function](!assets/armor_function.png)
+![Armor function](assets/armor_function.png)
+*Funzione mitigazione danni f(x)*
 
 # Il calcolo della riduzione dell'armatura
 La penetrazione e la riduzione armatura segue il seguente ordine:
