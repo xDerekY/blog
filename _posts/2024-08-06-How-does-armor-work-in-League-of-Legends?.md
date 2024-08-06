@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/3d85dd03-d9d4-49e8-bc39-25ac48ad4a29)---
 title: "Come vengono calcolati i danni su League of legends"
 date: 2024-08-06
 layout: post
@@ -18,8 +18,11 @@ f(x) =
 \end{cases}
 $$
 
+[Armor function](!assets/armor_function.png)
+
 # Il calcolo della riduzione dell'armatura
 La penetrazione e la riduzione armatura segue il seguente ordine:
+
 1) riduzione, flat
 2) riduzione, percentuale
 3) penetrazione, percentuale
