@@ -39,7 +39,7 @@ Nel grafico sottostante vediamo cosa succede quando utilizziamo un approccio ibr
 
 ![Hybrid pen efficiency]({{ "/assets/hybrid_pen.png" | relative_url }})
 
-Notiamo che nella fascia 50-100 dove si trovano la maggior parte dei campioni che non comprano oggetti di armatura aumentiamo i danni di circa 15% solamente aumentando la lethality a 20(che è circa equivalente a comprare un oggetto con lethality).
+Notiamo che nella fascia 50-100, dove si trovano la maggior parte dei campioni che non comprano oggetti di armatura, aumentiamo i danni di circa 15% solamente aumentando la lethality a 20(che è circa equivalente a comprare un oggetto con lethality).
 
 # Il calcolo della riduzione dell'armatura
 La penetrazione e la riduzione armatura segue il seguente ordine:
