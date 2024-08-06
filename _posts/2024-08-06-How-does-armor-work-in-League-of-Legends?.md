@@ -18,7 +18,7 @@ f(x) =
 \end{cases}
 $$
 
-![Armor function](assets/armor_function.png)
+![Armor function](/assets/armor_function.png armor_function.png)
 *Funzione mitigazione danni f(x)*
 
 # Il calcolo della riduzione dell'armatura
