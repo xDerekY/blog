@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3d85dd03-d9d4-49e8-bc39-25ac48ad4a29)---
+---
 title: "Come vengono calcolati i danni su League of legends"
 date: 2024-08-06
 layout: post
