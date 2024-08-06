@@ -18,7 +18,7 @@ f(x) =
 \end{cases}
 $$
 
-![Armor function](/assets/armor_function.png)
+![Armor function]({{ "/assets/armor_function.png" | relative_url }})
 
 *Funzione mitigazione danni f(x)*
 
@@ -27,7 +27,7 @@ Inoltre nel punto 0 la pendenza è -1, ossia per ogni punto di armatura acquisit
 
 ## Penetrazione armatura percentuale o lethality?
 
-![Armor pen efficiency](/assets/flat_vs_percentage_pen.png)
+![Armor pen efficiency]({{ "/assets/flat_vs_percentage_pen.png" | relative_url }})
 
 Nel primo grafico vengono disegnate 2 ulteriori funzioni:
 
@@ -37,7 +37,7 @@ Nel primo grafico vengono disegnate 2 ulteriori funzioni:
 Si può notare dal grafico che l'aumento dei danni a parità di lethality o penetrazione percentuale è la stessa nel punto in cui l'armatura è uguale a 100. Quando il nemico ha più di 100 di armatura è più vantaggiosa la penetrazione armatura percentuale.
 Nel grafico sottostante vediamo cosa succede quando utilizziamo un approccio ibrido:
 
-![Hybrid pen efficiency](/assets/hybrid_pen.png)
+![Hybrid pen efficiency]({{ "/assets/hybrid_pen.png" | relative_url }})
 
 Notiamo che nella fascia 50-100 dove si trovano la maggior parte dei campioni che non comprano oggetti di armatura aumentiamo i danni di circa 15% solamente aumentando la lethality a 20(che è circa equivalente a comprare un oggetto con lethality).
 
