@@ -34,6 +34,9 @@ Nel primo grafico vengono disegnate 2 ulteriori funzioni:
 - la funzione verde è f(x*(100-20)/100)/f(x) = f(0.8x)/f(x)
 
 Si può notare dal grafico che l'aumento dei danni a parità di lethality o penetrazione percentuale è la stessa nel punto in cui l'armatura è uguale a 100. Quando il nemico ha più di 100 di armatura è più vantaggiosa la penetrazione armatura percentuale.
+Nel grafico sottostante vediamo cosa succede quando utilizziamo un approccio ibrido:
+![Hybrid pen efficiency](/assets/hybrid_pen.png)
+Notiamo che nella fascia 50-100 dove si trovano la maggior parte dei campioni che non comprano oggetti di armatura aumentiamo i danni di circa 15% solamente aumentando la lethality a 20(che è circa equivalente a comprare un oggetto con lethality).
 
 # Il calcolo della riduzione dell'armatura
 La penetrazione e la riduzione armatura segue il seguente ordine:
