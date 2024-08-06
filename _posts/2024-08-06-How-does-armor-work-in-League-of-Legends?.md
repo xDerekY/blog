@@ -44,10 +44,10 @@ Notiamo che nella fascia 50-100, dove si trovano la maggior parte dei campioni c
 # Il calcolo della riduzione dell'armatura
 La penetrazione e la riduzione armatura segue il seguente ordine:
 
-1) riduzione, flat
-2) riduzione, percentuale
-3) penetrazione, percentuale
-4) penetrazione, flat
+- riduzione, flat
+- riduzione, percentuale
+- penetrazione, percentuale
+- penetrazione, flat
 
 
 Fonti:
