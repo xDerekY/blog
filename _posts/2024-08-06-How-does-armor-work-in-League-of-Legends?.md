@@ -49,6 +49,7 @@ La penetrazione e la riduzione armatura segue il seguente ordine:
 - penetrazione, percentuale
 - penetrazione, flat
 
+Questo implica che la riduzione percentuale e la penetrazione percentuale hanno un effetto multiplicativo! Ad esempio last whisper(35% armor pen.) con black cleaver(30% armor red.) ha un effetto complessivo di $$ 0.65*0.7=0.455 ~$$ penetrazione armatura del $$ 54.5% \neq 65%=30%+35% $$.
 
 Fonti:
 [Penetrazione armatura](https://leagueoflegends.fandom.com/wiki/Armor_penetration)
