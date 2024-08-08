@@ -13,15 +13,15 @@ La visione va conquistata nelle zone limitrofe degli obiettivi prima che arrivi 
 
 ## Perché è importante la visione?
 
-L'informazione che viene acquisita grazie alla presenza di visione permette il posizionamento tattico dei campioni e la pianificazione di situazioni di vantaggio come imboscate e flank. Inoltre facilita colpire i campioni nemici con gli skillshot. Nonché permette di prendere decisioni consapevoli e ponderate.
+L'informazione che viene acquisita grazie alla presenza di visione permette il posizionamento tattico dei campioni, la pianificazione di situazioni di vantaggio come imboscate e flank, ed evitare le imboscate e flank nemiche. Inoltre facilita colpire i campioni nemici con gli skillshot. Nonché permette di prendere decisioni consapevoli e ponderate.
 
 # Trade off
 
 Questo è il concetto di base su cui si basano tante strategie e tattiche di gioco, l'idea fondamentale è di creare situazioni in cui il giocatore nemico è costretto a prendere una decisione su una serie di opzioni mutuamente esclusivi.
 
-Ad esempio, è usanza pushare le wave prima di un obiettivo perchè così si costringe l'avversario a scegliere di difendere la torre oppure di contestare/wardare.
+Ad esempio, è usanza pushare le wave prima di un obiettivo perchè così si costringe l'avversario a scegliere di difendere la torre oppure di contestare/wardare rinunciando alla salute della torrem, all'esperienza e ai gold di last hit dei minion. La mutua esclusività è dovuta alla velocità di depush e al tempo di percorrenza fino all'obiettivo.
 
 # Pathing
 
-Nella mappa di League of Legends esistono i sentieri e i muri. Ciò significa che per raggiungere un punto della mappa camminando il campione è limitato nel percorso e nella velocità. Il campione per raggiungere un altro punto della mappa percorre il percorso più vicino, la topologia/terrain della mappa limita i percorsi che possono fare i campioni. La conoscenza della topologia della mappa permette di intercettare i campioni nemici e creare situazioni di vantaggio strategico, ad esempio dividere il team nemico, creare situazioni di vantaggio numerico, preparare imboscate, sfruttare situazioni in cui il nemico è fuori posizione ecc...
+Nella mappa di League of Legends esistono i sentieri e i muri. Ciò significa che per raggiungere un punto della mappa camminando il campione è limitato nel percorso e nella velocità. Il campione per raggiungere un altro punto della mappa percorre il percorso più corto, la topologia/terrain della mappa limita i percorsi che possono fare i campioni. La conoscenza della topologia della mappa permette di intercettare i campioni nemici e creare situazioni di vantaggio strategico, ad esempio dividere il team nemico, creare situazioni di vantaggio numerico, preparare imboscate, sfruttare situazioni in cui il nemico è fuori posizione ecc...
 Per questi motivi è importante l'abilità dell'evocatore *teletrasporto* che permette di teletrasportarsi su un'unità alleata.
