@@ -10,9 +10,6 @@ In questo articolo vorrei enunciare i principi fondamentali di league of legends
 
 Su League of Legends c'è la *fog of war*, ciò significa che la minimappa non è completamente visibile se non viene illuminata da unità che garantiscono "visione". I lumi sono oggetti che possono essere piazzati e garantiscono visione nella zona limitrofa per una durata di tempo temporaneo o illimitato. La visione permette di ottenere informazioni sulla posizione degli avversari e confermare la loro presunta posizione. Più è difficile stimare la posizione dell'avversario e più ha valore "spottare" l'avversario con un lume.
 La visione va conquistata nelle zone limitrofe degli obiettivi prima che arrivi l'avversario e va mantenuta fino alla conquista dell'obiettivo.
-
-## Perché è importante la visione?
-
 L'informazione che viene acquisita grazie alla presenza di visione permette il posizionamento tattico dei campioni, la pianificazione di situazioni di vantaggio come imboscate e flank, ed evitare le imboscate e flank nemiche. Inoltre facilita colpire i campioni nemici con gli skillshot. Nonché permette di prendere decisioni consapevoli e ponderate.
 
 # Trade-offs
