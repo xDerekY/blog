@@ -30,6 +30,6 @@ Per questi motivi è importante l'abilità dell'evocatore *teletrasporto* che pe
 
 In ogni momento della partita(anche a partire dalla draft) ogni team ha punti di forza e debolezze, uno vorrebbe sui propri punti di forza e punire le debolezze nemiche. Da qui scaturisce il concetto di *win condition*, ossia quella serie di condizioni ideali in cui il proprio team ha un vantaggio sul team nemico. Riconoscere e giocare sulle proprie win conditions è di cruciale importanza, perchè solo conoscendo le proprie win conditions è possibile giocare in maniera proattiva e guadagnare un vantaggio sul team avversario.
 
-# Draft and bans
+# Draft e bans
 
 La varietà di gameplay di League of Legends è in gran parte legata alla varietà di campioni e di sinergie che si possono creare tra questi campioni. La draft determina in gran parte le dinamiche di gioco e le giocate che i giocatori possono eseguire.
