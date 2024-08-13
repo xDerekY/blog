@@ -29,3 +29,11 @@ In ogni momento della partita (anche a partire dalla draft) ogni team ha punti d
 ## Draft e Bans
 
 La varietà di gameplay di *League of Legends* è in gran parte legata alla varietà di campioni e di sinergie che si possono creare tra questi campioni. La draft determina in gran parte le dinamiche di gioco e le giocate che i giocatori possono eseguire. 
+
+## Tempo
+
+Ogni azione su League of Legends richiede tempo per farla, anche muoversi sulla mappa richiede tempo! Gestire efficentemente il proprio tempo e avere un vantaggio di tempo sul nemico è importante perchè permette di:
+- essere presente prima del nemico
+- estrarre efficientemente le risorse presenti sulla mappa
+- mantenere la presenza e la pressure nella lane
+- effettuare giocate e mantenere il vantaggio numerico
