@@ -4,7 +4,7 @@ date: 2024-08-17
 layout: post
 ---
 
-# Le principali micro meccaniche
+### Le principali micro meccaniche
 
 ## Velocità d'attacco
 
@@ -15,19 +15,19 @@ Gli auto attacchi seguono il seguente processo:
 - Parte il proiettile dell'auto attacco subito dopo l'animazione di auto attacco.
 - Il proiettile colpisce il nemico dopo un tempo di percorrenza, certi proiettili sono istantanei.
 
-## Esempi di meccaniche che si basano sulla velocità d'attacco
+# Esempi di meccaniche che si basano sulla velocità d'attacco
 
-### Kiting and DPS maximization
+# Kiting and DPS maximization
 
 Il kiting consiste nel sfruttare il tempo morto muovendo il campione tra un auto attacco e il successivo.
 
 Muovere il campione è una delle opzioni possibili, altre opzioni sono subire CC subito dopo l'auto attacco o usare abilità con tempo di *casting*, massimizzando i propri danni.
 
-### Auto reset
+# Auto reset
 
 Certe abilità resettano il timer dell'attacco, facendo partire subito l'animazione dell'autoattacco.
 
-### Turret aggro avoidance
+# Turret aggro avoidance
 
 È possibile non subire colpi di torre se il campione esce dal range della torre prima del successivo attacco della torre.
 
