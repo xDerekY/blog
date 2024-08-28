@@ -1,0 +1,40 @@
+---
+title: "Visione su League of legends"
+date: 2024-08-28
+layout: post
+---
+
+
+Su League of Legends essendoci la *fog of war* non è possibile ottenere informazioni certe su parti di mappa senza visione. Ciò significa che se la visione non è presente:
+- non è possibile sapere se un campo è up o down o il respawn
+- non è possibile conoscere tutte le informazioni legate ai nemici, ad esempio posizione, oggetti, salute, mana, ecc...
+- non è possibile conoscere tutte le informazioni legate alle torri nemiche, ad esempio la salute della torre
+Senza visione e con informazioni parziali, giocare a League of Legends è *guesswork*. La visione pertanto permette di ottenere informazioni certe.
+Certe abilità e certi oggetti conferiscono visione. La visione/controllo della mappa si conquista, bisogna sempre tenere in mente che wardare è contestare una zona della mappa, e in quanto tale possono sempre scoppiare dei fight o essere vittime di imboscate.
+
+# Quando e dove wardare
+
+Le ward vanno messe prima che ci passi il nemico perchè la funzionalità principale delle ward è quella di spottare i nemici. Le ward illuminano completamente il loro raggio di azione se non ostacolate da bush o terreni. Siccome i lumi hanno una durata limitata e un range di azione limitato, decidere dove e quando piazzarli è influenzato da vari fattori come posizionamento e dinamica delle wave di minion, obiettivo e scopo del lume(wardare la zona limitrofa all'obiettivo oppure per fare un pick di nemici isolati?), pressione delle lane e posizione presente e futura dei campioni.
+In zone di mappa dove è possibile che scoppi un teamfight le ward vanno messe dentro i cespugli per permettere all'adc di autoattaccare i nemici nascosti dentro i cespugli. È preferibile wardare in zone dove ci sono più biforcazioni in modo da coprire più percorsi possibili.
+
+Ward piazzate per prevenire i gank in zone troppo shallow sono inutili perchè non riesci a scappare o il team a reagire anche se hai spottato il nemico.
+Ward piazzate per spottare il jungler nemico sono inutili se tale informazione non viene o non può essere usata vantaggiosamente.
+
+# Requisiti per wardare
+
+Allo scopo di minimizzare i rischi che comporta wardare è necessario tenere in mente che:
+- non bisogna lasciare che l'alleato che va a wardare si isoli dal team o isolare il proprio adc in modo tale da non dare al nemico occasioni di vantaggio numerico;
+- bisogna cercare di wardare minimizzando le perdite di esperienza e di gold, pertanto è da manuale crashare la wave prima di wardare
+- non bisogna essere vittime di ambush, pertanto è preferibile avere informazioni sulla posizione dei nemici prima di wardare.
+- per il primo e il secondo motivo è consigliato sincronizzare i reset prima di wardare un obiettivo per permettere il refill delle ward e non permettere al nemico di approffitare di situazioni di vantaggio numerico.
+
+# Come checkare i bush
+
+Se la traiettoria di uno skillshot termina prima allora vuol dire che ha colpito un nemico. Conoscere il range delle abilità nemiche permette di baitare lo skillshot o di dodgiare lo skillshot anche senza avere visione del bush.
+
+# Come giocare intorno ai bush
+
+Entrare in un bush non wardato significato essere intarghettabili da autoattacchi e più difficili da colpire. Inoltre si aumenta virtualmente il proprio range di azione anche stando lontano dal nemico, perchè il nemico assumerà sempre il caso peggiore ossia che tu ti trovi nella parte di bush più vicino a loro.
+Autoattaccare dentro il bush dà visione al nemico, pertanto è preferibile uscire dal bush per autoattaccare e rientrare subito dopo per ritornare intarghettabili.
+I bush non wardati possono anche estendere la nebbia di guerra e permettere gank passando dalla lane.
+Quando si gioca melee contro ranged è importante la conquista del bush e il red sweeper per mantenere il bush non wardato, per mantenere il vantaggio di range bisogna cacciare il nemico fuori dal bush e wardare il bush cercando di negare lo sweper. In certi matchup melee contro melee è anche possibile abusare dei bush.
