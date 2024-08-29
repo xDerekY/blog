@@ -48,9 +48,33 @@ Il kit di un campione è ciò che rende ogni campione unico. Per tale motivo con
 
 Le rune permettono una personalizzazione dello stile di gioco. A seconda della draft uno stile di gioco è più adeguato di un altro. Come la scelta del campione, le rune non sono cambiabili a partire dall'inizio della partita.
 
-## Wave management
+### Wave management
 
 Le ondate di minion sono fondamentali ai laner perchè permettono di vincere trade, evitare gank, estrarre risorse come oro ed esperienza, applicare pressure nella corsia e sulla torre.
 Semplificando il comportamento dei minion, si dice che una wave(ondata di minion) sta *pushando/avanzando* quando a lungo andare si muove verso la base nemica. Si usa il termine freeze quando le wave sono in stallo e non si muovono.
 Una wave tende a pushare quando il suo DPS è maggiore di quello della wave opposta. Sempre nel modello semplificato, il DPS di una wave cambia solo quando muore o arriva un minion o quando ha l'aiuto della torre. I minion melee sono più tankosi dei caster e i caster hanno un DPS più alto dei melee.
 Pertanto è possibile controllare il push della wave controllando il numero dei propri minion e dei minion avversari in vita.
+
+## Minions
+
+La funzione principale dei minion è quella di distriggere le torri, siccome è molto più difficile distruggere le torri senza una wave di minion.
+Le funzioni secondarie di una wave sono:
+- permette di eseguire più semplicemente i tower dive
+- permette di vincere i trade
+Ogni 3 wave i minion diventano più forti.
+
+# Caster minion
+
+Il lasthit dà 14 di gold. Conferisce alla morte circa 30-40 di exp. Può tankare almeno 2 colpi di torre.
+
+# Melee minion
+
+Valgono in exp circa il doppio di un melee minion, il lasthit vale 50% in più di un caster minion. Può tankare almeno 1 colpo di torre.
+
+# Siege minion(Cannon minion)
+
+Valgono in exp circa il triplo di un melee minion, il lasthit vale almeno 4 volte quello di un caster minion. Può tankare almeno 7 colpi di torre. A differenza dei caster e melee minions il cannon non ha un cap su danno e salute. Fanno più danno alle torri della mid lane.
+
+# Super minion
+
+Valgono in exp circa il triplo di un melee minion, il lasthit vale almeno 4 volte quello di un caster minion. Tanka 2 volte tanto in più di un cannon(almeno 14 colpi di torre). Non ha un cap su danno e salute. Rendono gli altri minion più tankosi.
