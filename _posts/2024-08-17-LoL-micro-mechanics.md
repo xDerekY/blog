@@ -34,7 +34,19 @@ Certe abilità resettano il timer dell'attacco, facendo partire subito l'animazi
 ## Skillshots
 
 L'animazione delle abilità è annullabile con effetti di stasi o con certi effetti di controllo(crowd control o CC). Esistono diversi tipi di abilità ma la più comune è lo skillshot: proiettili a traiettoria fissa con tempo di percorrenza.
-È possibile evadere lo skillshot muovendo il campione fuori dalla sua traiettoria(dodging). È anche possibile evadere lo skillshot muovendosi fuori dal suo range di azione(spacing). Entrare ed uscire dal range di azione di uno skillshot in maniera consapevole si chiama tethering.
+È possibile evadere lo skillshot muovendo il campione fuori dalla sua traiettoria(dodging). È anche possibile evadere lo skillshot muovendosi fuori dal suo range di azione(spacing). Entrare ed uscire dal range di azione di uno skillshot in maniera consapevole si chiama tethering. Spacing e tethering sono meccaniche che vengono applicate anche agli autoattacchi.
+
+## Abilities
+
+Il kit di un campione è ciò che rende ogni campione unico. Per tale motivo conoscere i kit dei campioni alleati e i kit dei campioni nemici è di fondamentale importanza perchè rende possibile:
+- ottimizzare la build path del proprio campione
+- conoscere le dinamiche del proprio matchup
+- conoscere le dinamiche del teamfight
+- conoscere le strategie utilizzabili e le strategie inutilizzabili
+
+## Rune
+
+Le rune permettono una personalizzazione dello stile di gioco. A seconda della draft uno stile di gioco è più adeguato di un altro. Come la scelta del campione, le rune non sono cambiabili a partire dall'inizio della partita.
 
 ## Wave management
 
