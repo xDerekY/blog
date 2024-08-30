@@ -61,6 +61,7 @@ La funzione principale dei minion è quella di distriggere le torri, siccome è 
 Le funzioni secondarie di una wave sono:
 - permette di eseguire più semplicemente i tower dive
 - permette di vincere i trade
+
 Ogni 3 wave i minion diventano più forti.
 
 # Caster minion
