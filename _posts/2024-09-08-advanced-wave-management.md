@@ -8,6 +8,7 @@ Su League of Legends possono spawnare 3 tipi di wave:
 - la wave senza cannone: 3 [unità melee](https://leagueoflegends.fandom.com/wiki/Melee_minion), 3 [unità ranged](https://leagueoflegends.fandom.com/wiki/Caster_minion)
 - la wave con cannone: 1 [cannone](https://leagueoflegends.fandom.com/wiki/Siege_minion), 3 unità melee, 3 unità ranged
 - la wave con superminions: 1 o 2 [super minions](https://leagueoflegends.fandom.com/wiki/Super_minion), 3 unità melee, 3 unità ranged
+
 Ogni 90 secondi(3 wave) le wave che spawnano diventano più forti. Dal minuto 10 i minion ottengono progressivamente più velocità di movimento. Prima del minuto 14(e dopo la prima wave) le wave di minion si schiantano allo stesso tempo anche per le corsie più lunghe(le wave in top and in bot si schiantano allo stesso tempo della wave in mid).
 
 ### Aggro
