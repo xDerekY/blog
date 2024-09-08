@@ -30,10 +30,14 @@ I minion ottengono dei buff in danni bonus e danni subiti ridotti che aumentano 
 
 Lo stato di una wave può assumere 4 stati con i corrispettivi contrari:
 - pushing:
+
 ![pushing]({{ "/assets/pushing.png" | relative_url }})
 - accumulation:
+
 ![accumulation]({{ "/assets/accumulation.png" | relative_url }})
 - freeze:
+
 ![freeze]({{ "/assets/freeze.png" | relative_url }})
 - middle freeze:
+
 ![middle freeze]({{ "/assets/middle_freeze.png" | relative_url }})
