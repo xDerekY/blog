@@ -24,3 +24,10 @@ L'aggro dei minion segue il seguente ordine di priorità:
 ### [Minion buffs](https://leagueoflegends.fandom.com/wiki/Minion_(League_of_Legends)#Buffs)
 
 I minion ottengono dei buff in danni bonus e danni subiti ridotti che aumentano linearmente rispetto al prodotto tra il differenziale di livello medio e il differenziale di torri nella corsia. Tale meccanica incentiva a non perdere livelli, a distruggere le torri nemiche e a proteggere le torri alleate.
+
+
+### Wave states
+
+Lo stato di una wave può assumere 4 stati con i corrispettivi contrari:
+
+![]()
