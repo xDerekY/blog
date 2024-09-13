@@ -42,3 +42,7 @@ Lo stato di una wave può assumere 4 stati con i corrispettivi contrari:
 - middle freeze:
 
 ![middle freeze]({{ "/assets/middle_freeze.png" | relative_url }})
+
+# Cos'è la crash line?
+
+Ogni linea immaginaria dove si scontrano due minion wave si ottiene eliminando completamente una wave dalle ondate nemiche, la prima crash line si ottiene eliminando 0 wave nemiche, difatti i minion si incontrano in mezzo alla lane. La seconda crash line si ottiene eliminando 1 wave nemica. La terza crash line è di fronte al nexus nemico, i minion spawneranno prima che l'ondata nemica hitti il nexus.
