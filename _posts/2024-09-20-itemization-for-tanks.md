@@ -74,13 +74,13 @@ $$
 salute effettiva = g(h,a) = \frac{\text{salute attuale} + h}{\frac{100}{100+\text{armatura attuale}+a}} = (\text{salute attuale} + h)(1+\frac{\text{armatura attuale}+a}{100})
 $$
 
-Prendendo come esempio Blitzcrank e confrontando la Warmog(+150+350+200 salute ~ +700 salute) pari a  e il Locket(+200 salute, 30 armatura, 30 resistenza magica) come first item al livello 7 con già l'oggetto da support che dà 200 di salute:
+Prendendo come esempio Blitzcrank e confrontando la Warmog non completata(+150+350+200 salute ~ +700 salute) pari a  e il Locket(+200 salute, 30 armatura, 30 resistenza magica) come first item al livello 7 con già l'oggetto da support che dà 200 di salute:
 
 $$
-g(Warmog) = (1128 + 200 + +150+350+200)(1 + \frac{60+0}{100}) = 3245
+g(Warmog non completata) = (1128 + 200 + +150+350+200)(1 + \frac{60+0}{100}) = 3245
 $$
 $$
-g(Warmog 2000 gold) = (1128 + 200 + +150+150+200)(1 + \frac{60+0}{100}) = 2925
+g(Warmog 2000 gold) = (1128 + 200 +150+150+200)(1 + \frac{60+0}{100}) = 2925
 $$
 $$
 g(Locket) = (1128 + 200 + 200)(1 + \frac{60+30}{100}) = 2903
@@ -103,4 +103,17 @@ Siccome il DPS nominale non dipende dalle statistiche difensive del nostro campi
 
 $$
 g(h,a,r) = \frac{\text{salute attuale} + h}{\frac{100}{100+\text{armatura attuale}+a} + \frac{100}{100+\text{resistenza magica attuale}+r}} = \frac{(\text{salute attuale} + h)(100+\text{armatura attuale}+a)(100+\text{resistenza magica attuale}+r)}{100(200+\text{armatura attuale}+a+\text{resistenza magica attuale}+r)}
+$$
+
+$$
+g(Warmog non completata) = \frac{(1128 + 200 +700)(100 + 60 + 0)(100 + 42 + 0)}{100(200 + 60 + 0 + 42 + 0)} = 1525
+$$
+$$
+g(Warmog 2000 gold) = \frac{(1128 + 200 +150+150+200)(100 + 60 + 0)(100 + 42 + 0)}{100(200 + 60 + 0 + 42 + 0)} = 1375
+$$
+$$
+g(Locket) = \frac{(1128 + 200 + 200)(100 + 60 + 30)(100 + 42 + 30)}{100(200 + 60 + 30 + 42 + 30)} = 1379
+$$
+$$
+g(Locket con attiva) = \frac{(1128 + 200 + 200 + 280)(100 + 60 + 30)(100 + 42 + 30)}{100(200 + 60 + 30 + 42 + 30)} = 1632
 $$
