@@ -45,3 +45,9 @@ Fissando il termine legato al DPS nominale, studiamo il fattore $$ \frac{\text{s
 $$
 g(a,h) = \frac{\text{salute attuale} + h}{f(\text{armatura attuale} + a)}
 $$
+
+Siccome il termine $\text{armatura attuale} + a$ è sempre positivo, possiamo semplificare la formula: 
+
+$$
+g(a,h) = \frac{\text{salute attuale} + h}{\frac{100}{100 + \text{armatura attuale} + a}} = (\text{salute attuale} + h)(1 + \frac{\text{armatura attuale} + a}{100})
+$$
