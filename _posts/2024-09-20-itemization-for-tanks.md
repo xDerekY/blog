@@ -77,16 +77,19 @@ $$
 Prendendo come esempio Blitzcrank e confrontando la Warmog non completata(+150+350+200 salute ~ +700 salute) pari a  e il Locket(+200 salute, 30 armatura, 30 resistenza magica) come first item al livello 7 con già l'oggetto da support che dà 200 di salute:
 
 $$
-g(Warmog non completata) = (1128 + 200 + +150+350+200)(1 + \frac{60+0}{100}) = 3245
+g(\text{Warmog non completata}) = (1128 + 200 + +150+350+200)(1 + \frac{60+0}{100}) = 3245
 $$
+
 $$
-g(Warmog 2000 gold) = (1128 + 200 +150+150+200)(1 + \frac{60+0}{100}) = 2925
+g(\text{Warmog 2000 gold}) = (1128 + 200 +150+150+200)(1 + \frac{60+0}{100}) = 2925
 $$
+
 $$
-g(Locket) = (1128 + 200 + 200)(1 + \frac{60+30}{100}) = 2903
+g(\text{Locket}) = (1128 + 200 + 200)(1 + \frac{60+30}{100}) = 2903
 $$
+
 $$
-g(Locket con attiva) = (1128 + 200 + 200 + 280)(1 + \frac{60+30}{100}) = 3435
+g(\text{Locket con attiva}) = (1128 + 200 + 200 + 280)(1 + \frac{60+30}{100}) = 3435
 $$
 
 È evidente che il build path della Warmog è migliore di quello del Locket, e che il Locket rende più tankosi solo con l'utilizzo dell'attiva. È anche vero che l'attiva della Warmog è molto più forte del Locket se si riesce a sfruttarla. Questo non considerando le altre diverse statistiche che i due oggetti portano come ability haste e rigenerazione salute.
@@ -106,19 +109,19 @@ g(h,a,r) = \frac{\text{salute attuale} + h}{\frac{100}{100+\text{armatura attual
 $$
 
 $$
-g(Warmog non completata) = \frac{(1128 + 200 +700)(100 + 60 + 0)(100 + 42 + 0)}{100(200 + 60 + 0 + 42 + 0)} = 1525
+g(\text{Warmog non completata}) = \frac{(1128 + 200 +700)(100 + 60 + 0)(100 + 42 + 0)}{100(200 + 60 + 0 + 42 + 0)} = 1525
 $$
 
 $$
-g(Warmog 2000 gold) = \frac{(1128 + 200 +150+150+200)(100 + 60 + 0)(100 + 42 + 0)}{100(200 + 60 + 0 + 42 + 0)} = 1375
+g(\text{Warmog 2000 gold}) = \frac{(1128 + 200 +150+150+200)(100 + 60 + 0)(100 + 42 + 0)}{100(200 + 60 + 0 + 42 + 0)} = 1375
 $$
 
 $$
-g(Locket) = \frac{(1128 + 200 + 200)(100 + 60 + 30)(100 + 42 + 30)}{100(200 + 60 + 30 + 42 + 30)} = 1379
+g(\text{Locket}) = \frac{(1128 + 200 + 200)(100 + 60 + 30)(100 + 42 + 30)}{100(200 + 60 + 30 + 42 + 30)} = 1379
 $$
 
 $$
-g(Locket con attiva) = \frac{(1128 + 200 + 200 + 280)(100 + 60 + 30)(100 + 42 + 30)}{100(200 + 60 + 30 + 42 + 30)} = 1632
+g(\text{Locket con attiva}) = \frac{(1128 + 200 + 200 + 280)(100 + 60 + 30)(100 + 42 + 30)}{100(200 + 60 + 30 + 42 + 30)} = 1632
 $$
 
 Come prima l'attiva del Locket dà un sacco di value all'item.
