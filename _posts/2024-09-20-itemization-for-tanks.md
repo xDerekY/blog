@@ -44,3 +44,14 @@ $$
 t = \text{secondi in fight} = \frac{\text{salute massima}}{f(\text{armatura}) \cdot \text{DPS fisico nominale} + f(\text{resistenza magica}) \cdot \text{DPS magico nominale}}
 $$
 
+Studiandolo dal punto di vista dell'itemizzazione:
+
+$$
+g(h,a,r) = \frac{\text{salute attuale} + h}{f(\text{armatura attuale}+a) \cdot \text{DPS fisico nominale} + f(\text{resistenza magica attuale} + r) \cdot \text{DPS magico nominale}}
+$$
+
+Siccome il termine $$\text{armatura attuale}+a$$ e il termine $$\text{resistenza magica attuale}+r$$ sono sempre positivi:
+
+$$
+g(h,a,r) = \frac{\text{salute attuale} + h}{\frac{100}{100+\text{armatura attuale}+a} \cdot \text{DPS fisico nominale} + \frac{100}{100+\text{resistenza magica attuale}+r} \cdot \text{DPS magico nominale}}
+$$
