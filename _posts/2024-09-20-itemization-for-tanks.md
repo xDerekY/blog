@@ -102,5 +102,5 @@ $$
 Siccome il DPS nominale non dipende dalle statistiche difensive del nostro campione, ma dalle statistiche offensive dei campioni nemici possiamo considerarlo costante:
 
 $$
-g(h,a,r) = \frac{\text{salute attuale} + h}{\frac{100}{100+\text{armatura attuale}+a} + \frac{100}{100+\text{resistenza magica attuale}+r}}
+g(h,a,r) = \frac{\text{salute attuale} + h}{\frac{100}{100+\text{armatura attuale}+a} + \frac{100}{100+\text{resistenza magica attuale}+r}} = \frac{(\text{salute attuale} + h)(100+\text{armatura attuale}+a)(100+\text{resistenza magica attuale}+r)}{100(200+\text{armatura attuale}+a+\text{resistenza magica attuale}+r)}
 $$
