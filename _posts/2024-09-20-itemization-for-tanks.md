@@ -32,7 +32,7 @@ $$
 \text{DPS totale effettivo} = f(\text{armatura}) \cdot \text{DPS fisico nominale} + f(\text{resistenza magica}) \cdot \text{DPS magico nominale}
 $$
 
-Dividendo la salute massima per il DPS effettivo si può calcolare quanto tempo il tank può restare in fight:
+Trascurando la rigenerazione salute, dividendo la salute massima per il DPS effettivo si può calcolare quanto tempo il tank può restare in fight:
 
 $$
 t = \text{secondi in fight} = \frac{\text{salute massima}}{\text{DPS totale effettivo}}
@@ -54,4 +54,53 @@ Siccome il termine $$\text{armatura attuale}+a$$ e il termine $$\text{resistenza
 
 $$
 g(h,a,r) = \frac{\text{salute attuale} + h}{\frac{100}{100+\text{armatura attuale}+a} \cdot \text{DPS fisico nominale} + \frac{100}{100+\text{resistenza magica attuale}+r} \cdot \text{DPS magico nominale}}
+$$
+
+Si possono considerare 2 casi:
+- il DPS fisico è equiparabile a quello magico
+- uno dei due DPS è preponderante
+
+# Danni prevalentemente fisici
+
+Studiamo prima il caso in cui uno dei due DPS è preponderante, ad esempio quello fisico, allora possiamo studiare la funzione semplificata:
+
+$$
+g(h,a) = \frac{\text{salute attuale} + h}{\frac{100}{100+\text{armatura attuale}+a} \cdot \text{DPS fisico nominale}}
+$$
+
+Siccome il DPS fisico nominale non dipende dalle statistiche difensive del nostro campione, ma dalle statistiche offensive dei campioni nemici possiamo considerarlo costante:
+
+$$
+salute effettiva = g(h,a) = \frac{\text{salute attuale} + h}{\frac{100}{100+\text{armatura attuale}+a}} = (\text{salute attuale} + h)(1+\frac{\text{armatura attuale}+a}{100})
+$$
+
+Prendendo come esempio Blitzcrank e confrontando la Warmog(+150+350+200 salute ~ +700 salute) pari a  e il Locket(+200 salute, 30 armatura, 30 resistenza magica) come first item al livello 7 con già l'oggetto da support che dà 200 di salute:
+
+$$
+g(Warmog) = (1128 + 200 + +150+350+200)(1 + \frac{60+0}{100}) = 3245
+$$
+$$
+g(Warmog 2000 gold) = (1128 + 200 + +150+150+200)(1 + \frac{60+0}{100}) = 2925
+$$
+$$
+g(Locket) = (1128 + 200 + 200)(1 + \frac{60+30}{100}) = 2903
+$$
+$$
+g(Locket con attiva) = (1128 + 200 + 200 + 280)(1 + \frac{60+30}{100}) = 3435
+$$
+
+È evidente che il build path della Warmog è migliore di quello del Locket, e che il Locket rende più tankosi solo con l'utilizzo dell'attiva. È anche vero che l'attiva della Warmog è molto più forte del Locket se si riesce a sfruttarla. Questo non considerando le altre diverse statistiche che i due oggetti portano come ability haste e rigenerazione salute.
+
+# Danni misti equiparabili
+
+Studiamo prima il caso in cui i due DPS sono confrontabili, allora possiamo studiare la funzione semplificata:
+
+$$
+g(h,a,r) = \frac{\text{salute attuale} + h}{(\frac{100}{100+\text{armatura attuale}+a} + \frac{100}{100+\text{resistenza magica attuale}+r}) \cdot \text{DPS nominale}}
+$$
+
+Siccome il DPS nominale non dipende dalle statistiche difensive del nostro campione, ma dalle statistiche offensive dei campioni nemici possiamo considerarlo costante:
+
+$$
+g(h,a,r) = \frac{\text{salute attuale} + h}{\frac{100}{100+\text{armatura attuale}+a} + \frac{100}{100+\text{resistenza magica attuale}+r}}
 $$
