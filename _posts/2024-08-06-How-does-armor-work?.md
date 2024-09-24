@@ -1,5 +1,5 @@
 ---
-title: "Come vengono calcolati i danni su League of legends"
+title: "Come vengono calcolati i danni e come funziona l'armatura"
 date: 2024-08-06
 layout: post
 ---
