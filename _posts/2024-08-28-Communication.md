@@ -1,5 +1,5 @@
 ---
-title: "Comunicazione di squadra su League of legends"
+title: "Comunicazione di squadra"
 date: 2024-08-28
 layout: post
 ---
